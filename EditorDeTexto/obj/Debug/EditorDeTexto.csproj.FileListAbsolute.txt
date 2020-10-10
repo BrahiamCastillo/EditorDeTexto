@@ -1,0 +1,10 @@
+C:\Users\Bra y Da\source\repos\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe.config
+C:\Users\Bra y Da\source\repos\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.exe
+C:\Users\Bra y Da\source\repos\EditorDeTexto\EditorDeTexto\bin\Debug\EditorDeTexto.pdb
+C:\Users\Bra y Da\source\repos\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csprojAssemblyReference.cache
+C:\Users\Bra y Da\source\repos\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.Form1.resources
+C:\Users\Bra y Da\source\repos\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.Properties.Resources.resources
+C:\Users\Bra y Da\source\repos\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.GenerateResource.cache
+C:\Users\Bra y Da\source\repos\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.csproj.CoreCompileInputs.cache
+C:\Users\Bra y Da\source\repos\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.exe
+C:\Users\Bra y Da\source\repos\EditorDeTexto\EditorDeTexto\obj\Debug\EditorDeTexto.pdb
